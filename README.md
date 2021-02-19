@@ -27,5 +27,7 @@ I dislike:
 
 ## Ways to contact me
 Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)
+
 XMPP: getimiskon@snopyta.org
+
 For email, see [here](https://getimiskon.neocities.org/about.html#contact)

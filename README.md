@@ -15,11 +15,11 @@ I like:
 * Shell scripts
 * Linux and other Unix-like OSes
 * Text User Interfaces (like ncurses)
-* Good pieces of hardware (like ThinkPads)
+* Good pieces of hardware (like the good old ThinkPads)
 
 I dislike:
 * Object Oriented Programming
-* JavaScript
+* The excessive use of JavaScript
 * Windows 10
 * Upgrading constantly my programs to add useless features that break the code
 * Shit hardware that breaks easily

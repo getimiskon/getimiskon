@@ -6,7 +6,7 @@ I'm getimiskon, I'm a Linux enthusiast, and I write programs.
 You may be interested in some of my projects, like [conkyswitch](https://github.com/getimiskon/conkyswitch), [youtube-cli-viewer](https://github.com/getimiskon/youtube-cli-viewer), [cli-assistant](https://github.com/getimiskon/cli-assistant) and my [suckless setup](https://github.com/getimiskon/suckless-setup).
 
 ### I won't update often my personal projects here.
-The latest versions of my projects will be in these places:
+The latest versions of my projects will usually be in these places:
 * [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
 * [https://codeberg.org/getimiskon](https://codeberg.org/getimiskon)
 

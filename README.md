@@ -30,4 +30,4 @@ Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@g
 
 XMPP: getimiskon@snopyta.org
 
-For email, see [here](https://getimiskon.neocities.org/about.html#contact)
+For my email, see [here](https://getimiskon.xyz/about.html#contact)

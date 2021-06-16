@@ -1,7 +1,7 @@
 # Hello World!
 
 ## About me
-I'm getimiskon, I'm a Linux enthusiast, and I write programs.
+I'm getimiskon, I'm a Linux enthusiast, hobbyist programmer and sysadmin.
 
 You may be interested in some of my projects, like [conkyswitch](https://github.com/getimiskon/conkyswitch), [youtube-cli-viewer](https://github.com/getimiskon/youtube-cli-viewer), [cli-assistant](https://github.com/getimiskon/cli-assistant) and my [suckless setup](https://github.com/getimiskon/suckless-setup).
 
@@ -21,9 +21,9 @@ I dislike:
 * Object Oriented Programming
 * The excessive use of JavaScript
 * Windows 10
-* Upgrading constantly my programs to add useless features that break the code
-* Shit hardware that breaks easily
-* The thing modern web has become
+* Programs that force updates that break the code
+* Hardware that's hard to fix and breaks easily
+* Whatever the modern web has become
 
 ## Ways to contact me
 Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)

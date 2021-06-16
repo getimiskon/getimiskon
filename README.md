@@ -28,6 +28,6 @@ I dislike:
 ## Ways to contact me
 Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)
 
-XMPP: getimiskon@snopyta.org
+XMPP: getimiskon@getimiskon.xyz, getimiskon@snopyta.org
 
 For my email, see [here](https://getimiskon.xyz/about.html#contact)

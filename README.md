@@ -28,3 +28,5 @@ I dislike:
 Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)
 
 XMPP: getimiskon@getimiskon.xyz, getimiskon@snopyta.org
+
+For my email, see [here](https://getimiskon.xyz/about.html#contact)

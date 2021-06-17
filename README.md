@@ -5,11 +5,6 @@ I'm getimiskon, I'm a Linux enthusiast, hobbyist developer and sysadmin.
 
 You may be interested in some of my projects, like [conkyswitch](https://github.com/getimiskon/conkyswitch), [youtube-cli-viewer](https://github.com/getimiskon/youtube-cli-viewer), [accela (formerly cli-assistant)](https://github.com/getimiskon/accela) and my [suckless setup](https://github.com/getimiskon/suckless-setup).
 
-### I won't update often my personal projects here.
-The latest versions of my projects will usually be in these places:
-* [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
-* [https://codeberg.org/getimiskon](https://codeberg.org/getimiskon)
-
 I like:
 * C
 * Shell scripts
@@ -24,6 +19,10 @@ I dislike:
 * Programs that force updates that break the code
 * Hardware that's hard to fix and breaks easily
 * Whatever the modern web has become
+
+## Alternative repositories
+* [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
+* [https://codeberg.org/getimiskon](https://codeberg.org/getimiskon)
 
 ## Ways to contact me
 Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)

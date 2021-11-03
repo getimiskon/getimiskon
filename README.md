@@ -21,12 +21,12 @@ I dislike:
 * Whatever the modern web has become
 
 ## Alternative repositories
-* [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
 * [https://codeberg.org/getimiskon](https://codeberg.org/getimiskon)
+* [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
 
 ## Ways to contact me
-Mastodon: [https://social.snopyta.org/@getimiskon](https://social.snopyta.org/@getimiskon)
+Fediverse: [https://pleroma.getimiskon.xyz/getimiskon](https://pleroma.getimiskon.xyz/getimiskon)
 
-XMPP: getimiskon@getimiskon.xyz, getimiskon@snopyta.org
+XMPP: getimiskon@getimiskon.xyz
 
-For my email, see [here](https://getimiskon.xyz/about.html#contact)
+For my email and other ways of communication, see [here](https://getimiskon.xyz/about.html#contact)

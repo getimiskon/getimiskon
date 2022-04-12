@@ -25,7 +25,7 @@ I dislike:
 * [https://git.snopyta.org/getimiskon](https://git.snopyta.org/getimiskon)
 
 ## Ways to contact me
-Fediverse: [https://pleroma.getimiskon.xyz/getimiskon](https://pleroma.getimiskon.xyz/getimiskon)
+Fediverse: [https://udongein.xyz/getimiskon](https://udongein.xyz/getimiskon)
 
 XMPP: getimiskon@getimiskon.xyz
 
